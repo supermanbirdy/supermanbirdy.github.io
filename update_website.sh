@@ -36,10 +36,10 @@
     <meta content="https://avatars1.githubusercontent.com/u/3361224?v=4&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="paladini/ghost-on-github-pages" property="og:title" /><meta content="https://github.com/paladini/ghost-on-github-pages" property="og:url" /><meta content="ghost-on-github-pages - Ghost on Github Pages. Learn how to host Ghost for free on GitHub Pages." property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTk1MjYxNDQzOmM0MWE0Yzg3MDdkZGQwY2Q5ZTEwZjhhNzExYmMxYjFmZGE1NmI5NmNiZTIwZWVhYmE2NjVjNWEzYmJlYjEwOTM=--78f355db575c7e3b5e099adfbacf96ef17c88205">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTk1MjYxNDQzOmVhMWE4MGFmYjE2NGRmMzk3YjY2MzY3YzNhYTg0Yzg0NmYxNGUxNjVmM2E0YTY1NWViOGIzNjNlY2ZhYmU0YTg=--5c550ae275a9a2a4a499134efac7190a3e4a27e5">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="C5CB:39B8:94C666:10FB0A5:59891476" data-pjax-transient>
+  <meta name="request-id" content="C8CB:39AA:8F879B:FA0B0F:59891EEF" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -48,7 +48,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="C5CB:39B8:94C666:10FB0A5:59891476" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="25016963" name="octolytics-actor-id" /><meta content="supermanbirdy" name="octolytics-actor-login" /><meta content="f584ec181aff696c7c8166d3ff25c06daea965091eacd506aeed39c4913bb261" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="C8CB:39AA:8F879B:FA0B0F:59891EEF" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" /><meta content="25016963" name="octolytics-actor-id" /><meta content="supermanbirdy" name="octolytics-actor-login" /><meta content="f584ec181aff696c7c8166d3ff25c06daea965091eacd506aeed39c4913bb261" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -63,7 +63,7 @@
   <meta name="user-login" content="supermanbirdy">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="ZmFjYTNjZmRjMjFjYWU1NjE3ZDNhNmNkYTdjYTQyYTFkZDEwZjJhOTEyNGRiZmRhNTVkMTZlMzAyOWE3OTFhYXx7InJlbW90ZV9hZGRyZXNzIjoiNjguMjI2LjkwLjIxIiwicmVxdWVzdF9pZCI6IkM1Q0I6MzlCODo5NEM2NjY6MTBGQjBBNTo1OTg5MTQ3NiIsInRpbWVzdGFtcCI6MTUwMjE1NTg5NSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+    <meta name="js-proxy-site-detection-payload" content="ZWVlYmEwMTQ4YTBkMTAyNjRjZDA1MDNjNGM4NDUyZWY3Yjk0YTI2MGJhYTUzMDk5ZTM4MjVlMWIyNWVmYjE4MHx7InJlbW90ZV9hZGRyZXNzIjoiNjguMjI2LjkwLjIxIiwicmVxdWVzdF9pZCI6IkM4Q0I6MzlBQTo4Rjg3OUI6RkEwQjBGOjU5ODkxRUVGIiwidGltZXN0YW1wIjoxNTAyMTU4NTc2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER">
 
@@ -248,7 +248,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GzS1T91h4AhrvNVs2ncX49g7NR3bNM/aqP96ZSisMtqEijRJFSi/pa8l5g6kGafywnSi3ZqlvStwMVIOF0e4Tw==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Msd2I7X50n4wAYrao5kliEkGtNm6AL9DH/rA4pvqnUWtefclfbCN0/SYubjd95WZU0kjGfuRzbLHNOiJpAEX0A==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -258,7 +258,7 @@
 </ul>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iJk4zyX2k5aoEFMo1u17qRpLnp4eaZW2ACsLv4oCweMXJ7nJ7b/MO2yJYEqog8u4AAQJXl/450fY5SPUtelLdg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only right-0" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="inCIYxdDOyqpCDL549gl8nKaYwyEanJKyPbJQQqqJQUVzgll3wpkh22RAZudtpXjaNX0zMX7ALsQOOEqNUGvkA==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -293,7 +293,7 @@
 
         <ul class="pagehead-actions">
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="v79rKlWnwUYlubILjXa8hGEdg3vJr8D9xRV1fLzFLF/4owyiFNEEYSTBIPX4AHLr44hvwVedxw8nxTmSO8GTUw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="49452177" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="E9A8VW3nZLnD0UJHQtPZ12KaCdPwa+GAbwR+cjYjYA9UzFvdLJGhnsKp0Lk3pRe44A/laW5Z5nKN1DKcsSffAw==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="49452177" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/paladini/ghost-on-github-pages/subscription"
@@ -373,7 +373,7 @@
   <li>
     
   <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="N9hPYHYRBIx2pAhsik4Btchx64hoUGU54x8qvlRFuPjtei/UkhEeB4Jco6zaiEh+hKB4Jy24dVTCkjqPTkOOVA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3DcuXInWY8Y1T41TmCxfQ4Np8Ddz0xQ4WkEsrKfTgkEGlU7obdZ5TcG3JpPI6haIz7hjmDY7BFV7zDydvdW07Q==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -387,7 +387,7 @@
           124
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="c/m6OHa2ekUs7m65FXhFM+xBTWqhChMHdPZYgtYiqAEb+MbKPN2aYxfO7Enzl9LnSXQf2w2QF8MdxivIVImMsg==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="D34t4KL5GUB0U4Z4rTL3I907ePloQ+QuSl+qTE2geypnf1ES6JL5Zk9zBIhL3WD3eA4qSMTZ4Oojb9kGzwtfmQ==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -405,7 +405,7 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kNhX3E8q0NZZVE8XVyiGbR/J2sIZKNPEim6e2qqcUys9jeAC9fzsyVbNPEPGED0DaTKOLh+C2AFxnjOPDpf+sQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/fork" class="btn-with-count" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QoXPSji7OFlrGS5tyamHtjS57p/WFuHSQvPFrFRqgQfv0HiUgm0ERmSAXTlYkTzYQkK6c9C86he5A2j58GEsnQ==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -636,12 +636,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/edit/master/update_website.sh" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+AMY5NnqsEvWF9I7dzfrUNRWQtWA/aYV5i2BbLHsIs1RsLhQ7qAigJk0EVQiA3qJkYLxeaSsLYuKG5RQqm4aeQ==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/edit/master/update_website.sh" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="f2BMjFQ4XvLOKnsBNwICkn8FiPzxsupJ4N+Mti+IiJ3W0+w4Y3LMOYEJuG5iNpNLOtE7UNXjYdeM6ZmKNAqwKQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/delete/master/update_website.sh" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="OFfcS716FgKF1GOIKa6vh0RHsmHoaB1PYB+M9FfEJsF14neaJmIZ43SAwA3oR+o+8dCLtGEfFuPlrGKtglI9uw==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/paladini/ghost-on-github-pages/delete/master/update_website.sh" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="w3ZhVul79d8Bk/f00zbQfPoiROkM04jFYfEv23/hnPGOw8qHcmP6PvDHVHES35XFT7V9PIWkg2nkQsGCqneHiw==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -719,7 +719,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.15730s from unicorn-2175528045-q8j2p">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.15574s from unicorn-89906794-db392">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
